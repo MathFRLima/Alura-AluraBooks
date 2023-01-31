@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 A loja de livros online AluraBooks, desenvolvida inteiramente com HTML e CSS, inclusive o menu hamburguer, usando somente o swiper js para criar o carrossel presente no site.<br>
 O site foi desenvolvido com o conceito Mobile-first, para que o usuario tem acesso em todos os dispositivos.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://mathfrlima.github.io/Alura-AluraBooks/)
 
 ## 🔖 Layout
 
